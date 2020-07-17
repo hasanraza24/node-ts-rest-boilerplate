@@ -1,0 +1,10 @@
+{
+  "env": "test",
+  "nodePort": 3000,
+  "mongo": {
+    "host": "localhost",
+    "port": "27017",
+    "dbName": "ts-test"
+  },
+  "jwtSecret": "some-secret"
+}
